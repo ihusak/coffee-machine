@@ -1,0 +1,35 @@
+{
+  "resources": {
+    "coffee": [
+      {
+        "sort": "arabica",
+        "id": 1,
+        "count": 10
+      },
+      {
+        "sort": "robusta",
+        "id": 2,
+        "count": 10
+      }
+    ],
+    "cream": {
+      "count": 50
+    },
+    "sugar": {
+      "count": 30
+    },
+    "glasses": [
+      {
+        "plastic": {
+          "count": 100
+        },
+        "cardboard": {
+          "count": 120
+        }
+      }
+    ]
+  },
+  "client": {
+    "monet": 0
+  }
+}
